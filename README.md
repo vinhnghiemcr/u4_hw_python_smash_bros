@@ -14,6 +14,9 @@ Have you ever wondered what happens behind the scenes with Smash Brothers? In th
 
 ___
 ## Instructions
+### Data
+We'll be working with the data found in `characters.json`. This data should be imported into our `smash.py` file and used to populate instances of our Character class. 
+
 ### Classes
 We'll be creating two classes in the `smash.py` file with the following specifications:
 - Create a Battle and Character class in the `smash.py` file.
@@ -39,6 +42,11 @@ In the `main.py` file we'll import our classes and use them within a `game` func
 - If the user does not select a character, a random one should be chosen for them.
 - The opponent should be chosen at random, hint: `random.choice` may be useful.
 
+## Bonus
+- Try to make a game that allows for restarts after a player wins and keeps track of total score.
+- Try to populate your Character class instances with more data, resources for this data have been provided below
+
+___
 ## Submission Guidelines
 
 Submit your pull request utilizing the **[Pr Guidelines](https://github.com/SEI-R-1-25/template_pull_request)**.
@@ -46,3 +54,6 @@ Submit your pull request utilizing the **[Pr Guidelines](https://github.com/SEI-
 Pull requests are due by next day at `10:00 am EST`.
 
 ## Resources
+- [Python OOP Lesson](https://github.com/SEI-R-1-25/u4_lesson_python_oop)
+- [The KuroganeHammer API Docs](https://api.kuroganehammer.com/swagger/index.html)
+- [Python Requests Module](https://2.python-requests.org/en/master/)
