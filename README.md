@@ -1,10 +1,9 @@
 # Python Smash Brothers
 
 
-<img align="left" src="https://38.media.tumblr.com/b2bad3b19677a58ed9ef02e4d0eb0e24/tumblr_nce6ckWyAR1qdripwo1_500.gif" />
+<img src="https://38.media.tumblr.com/b2bad3b19677a58ed9ef02e4d0eb0e24/tumblr_nce6ckWyAR1qdripwo1_500.gif" />
 
-<br/>
-<div>
+
 
 ___
 ## Overview
@@ -60,4 +59,4 @@ Pull requests are due by next day at `10:00 am EST`.
   - Base URL: https://api.kuroganehammer.com/api/
 - [Python Requests Module](https://2.python-requests.org/en/master/)
 
-</div>
+
