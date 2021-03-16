@@ -1,13 +1,12 @@
 # Python Smash Brothers
 
-<p>
+
 <img align="left" src="https://38.media.tumblr.com/b2bad3b19677a58ed9ef02e4d0eb0e24/tumblr_nce6ckWyAR1qdripwo1_500.gif" />
-<img align="right" src="https://www.ssbwiki.com/images/thumb/2/2e/SSB64_Yoshi_Combo.gif/200px-SSB64_Yoshi_Combo.gif" />
-<img align="right" src="https://www.ssbwiki.com/images/thumb/a/af/SSB64_Greenhouse_Combo.gif/250px-SSB64_Greenhouse_Combo.gif" />
-</p>
+
 <br/>
 <div>
 
+___
 ## Overview
 Have you ever wondered what happens behind the scenes with Smash Brothers? In this lab, we'll be building a simplified version of the game to get practice with Python OOP by building classes for characters and battles! While there are minimum requirements, you're more than welcome to make this as accurate as possible post MVP!
 
