@@ -56,4 +56,5 @@ Pull requests are due by next day at `10:00 am EST`.
 ## Resources
 - [Python OOP Lesson](https://github.com/SEI-R-1-25/u4_lesson_python_oop)
 - [The KuroganeHammer API Docs](https://api.kuroganehammer.com/swagger/index.html)
+  - Base URL: https://api.kuroganehammer.com/api/
 - [Python Requests Module](https://2.python-requests.org/en/master/)
