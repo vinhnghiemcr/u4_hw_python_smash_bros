@@ -2,11 +2,12 @@
 
 <p>
 <img align="left" src="https://38.media.tumblr.com/b2bad3b19677a58ed9ef02e4d0eb0e24/tumblr_nce6ckWyAR1qdripwo1_500.gif" />
-<img align="right" src="https://thumbs.gfycat.com/SoftConsciousBlackrussianterrier-size_restricted.gif" />
 <img align="right" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fimages%2F1610b2265a0c14c45b6011a0f5b95464%2Ftenor.gif%3Fitemid%3D12409005&f=1&nofb=1" />
 <img align="left" src="https://www.ssbwiki.com/images/thumb/2/2e/SSB64_Yoshi_Combo.gif/200px-SSB64_Yoshi_Combo.gif" />
 <img align="center" src="https://www.ssbwiki.com/images/thumb/a/af/SSB64_Greenhouse_Combo.gif/250px-SSB64_Greenhouse_Combo.gif" />
 </p>
+<br/>
+<div>
 
 ## Overview
 Have you ever wondered what happens behind the scenes with Smash Brothers? In this lab, we'll be building a simplified version of the game to get practice with Python OOP by building classes for characters and battles! While there are minimum requirements, you're more than welcome to make this as accurate as possible post MVP!
@@ -60,3 +61,5 @@ Pull requests are due by next day at `10:00 am EST`.
 - [The KuroganeHammer API Docs](https://api.kuroganehammer.com/swagger/index.html)
   - Base URL: https://api.kuroganehammer.com/api/
 - [Python Requests Module](https://2.python-requests.org/en/master/)
+
+</div>
