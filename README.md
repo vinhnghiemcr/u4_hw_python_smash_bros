@@ -50,8 +50,6 @@ ___
 
 Submit your pull request utilizing the **[Pr Guidelines](https://github.com/SEI-R-1-25/template_pull_request)**.
 
-Pull requests are due by next day at `10:00 am EST`.
-
 ## Resources
 - [Python OOP Lesson](https://github.com/SEI-R-1-25/u4_lesson_python_oop)
 
