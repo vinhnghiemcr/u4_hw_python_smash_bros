@@ -48,10 +48,10 @@ In the `main.py` file we'll import our classes and use them within a `game` func
 ___
 ## Submission Guidelines
 
-Submit your pull request utilizing the **[Pr Guidelines](https://github.com/SEI-R-1-25/template_pull_request)**.
+Submit your pull request utilizing the **[Pr Guidelines](https://github.com/SEI-R-4-26/template_pull_request)**.
 
 ## Resources
-- [Python OOP Lesson](https://github.com/SEI-R-1-25/u4_lesson_python_oop)
+- [Python OOP Lesson](https://github.com/SEI-R-4-26/u4_lesson_python_oop)
 
 
 
