@@ -51,7 +51,7 @@ ___
 Submit your pull request utilizing the **[Pr Guidelines](https://github.com/SEI-R-4-26/template_pull_request)**.
 
 ## Resources
-- [Python OOP Lesson](https://github.com/SEI-R-4-26/u4_lesson_python_oop)
+- [Python OOP Lesson](https://github.com/SEI-R-7-26/u4_lesson_python_oop)
 
 
 
