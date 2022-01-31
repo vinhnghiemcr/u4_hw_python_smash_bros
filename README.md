@@ -45,13 +45,5 @@ In the `main.py` file we'll import our classes and use them within a `game` func
 ## Bonus
 - Try to make a game that allows for restarts after a player wins and keeps track of total score.
 
-___
-## Submission Guidelines
-
-Submit your pull request utilizing the **[Pr Guidelines](https://github.com/SEI-R-4-26/template_pull_request)**.
-
 ## Resources
 - [Python OOP Lesson](https://github.com/SEI-R-7-26/u4_lesson_python_oop)
-
-
-
