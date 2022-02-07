@@ -46,4 +46,4 @@ In the `main.py` file we'll import our classes and use them within a `game` func
 - Try to make a game that allows for restarts after a player wins and keeps track of total score.
 
 ## Resources
-- [Python OOP Lesson](https://github.com/SEI-R-7-26/u4_lesson_python_oop)
+- [Python OOP Lesson](https://github.com/SEI-R-11-8/u4_lesson_python_oop)
