@@ -25,12 +25,11 @@ class Battle:
             self.character2.get_hit(attack1["damage"])
             print("{} is using {}, and damages {} {} health, remaining {} hp".format(
                 self.character1.name, attack1["name"], self.character2.name, attack1["damage"], self.character2.health))
+            if self.character2.health <= 0:
+                return print("{} is the winner".format(self.character1.name))
             attack2 = self.character2.attack()
             self.character1.get_hit(attack2["damage"])
             print("{} is using {}, and damages {} {} health,  remaining {} hp".format(
-                self.character2.name, attack2["name"], self.character2.name, attack1["damage"], self.character1.health))
-
-        if self.character1.health <= 0:
-            print("{} is the winner".format(self.character2.name))
-        else:
-            print("{} is the winner".format(self.character1.name))
+                self.character2.name, attack2["name"], self.character1.name, attack1["damage"], self.character1.health))
+            if self.character1.health <= 0:
+                return print("{} is the winner".format(self.character2.name))
